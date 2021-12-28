@@ -147,7 +147,7 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Email"
-      icon: "fab fa-fw fa-mail-bulk"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:porlasparecesweb@gmail.com"
 
 
