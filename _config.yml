@@ -116,10 +116,10 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://twitter.com/SergioAlfageme"
     - label: "Instagram"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-instagram"
       url: "https://twitter.com/SergioAlfageme"
     - label: "Email"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-mail-bulk"
       url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -138,7 +138,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://twitter.com/SergioAlfageme"
     - label: "Instagram"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-instagram"
       url: "https://twitter.com/SergioAlfageme"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -147,7 +147,7 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Email"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-mail-bulk"
       url: "mailto:porlasparecesweb@gmail.com"
 
 
