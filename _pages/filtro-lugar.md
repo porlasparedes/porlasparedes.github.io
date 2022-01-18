@@ -1,7 +1,7 @@
 ---
 title: "Lugares"
 layout: categories
-permalink: /lugares/
+permalink: /categories/
 author_profile: false
 classes: wide
 ---
