@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 locale                   : "es-ES"
 title                    : "Por Las Paredes"
 title_separator          : "-"
-subtitle                 : "Siempre lo has querido hacer" # site tagline that appears below site title in masthead
+subtitle                 : "Planea tu escalada con nosotros" # site tagline that appears below site title in masthead
 name                     : "ASIR2 Empresa e Iniciativa Emprendedora"
 description              : "Descubre todo tipo de rutas y localizaciones para escalar"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
